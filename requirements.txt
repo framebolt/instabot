@@ -1,0 +1,5 @@
+instagrapi>=2.0.0
+groq
+python-dotenv
+httpx
+aiofiles
