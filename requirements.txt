@@ -1,4 +1,4 @@
-instagrapi>=2.0.0
+instagrapi==3.0.14
 groq
 python-dotenv
 httpx
